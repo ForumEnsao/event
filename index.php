@@ -9,7 +9,7 @@
         
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="Forum Ensao Entreprises">
+        <meta name="description" content="test">
         <meta name="author" content="themecube">
         
         <!-- viewport settings -->
@@ -29,7 +29,7 @@
         <link rel="stylesheet" href="css/magnific-popup.css">
         <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
         <link rel="stylesheet" href="css/owl.carousel.css">
-        <link rel="stylesheet" href="css/owl.theme.css">
+        <link rel="stylesheet" href="css/owl.thee.css">
         <link rel="stylesheet" href="css/owl.transitions.css">
         <link rel="stylesheet" href="css/revolution.css">
         <link rel="stylesheet" href="css/revolution-extralayers.css">
@@ -86,7 +86,7 @@
           </div>
         </nav>
         
-        <!-- FULLSCREEN SLIDER -->
+       <!-- FULLSCREEN SLIDER -->
         <div class="tp-banner-container">
             <div class="tp-banner">
 				<ul>	
@@ -257,7 +257,7 @@
                 <div class="tp-bannertimer"></div>	
             </div>
 		</div>
-    
+   
     	<!-- HIGHLIGHT -->
         <section id="highlight">
         	<div class="container-fluid">
