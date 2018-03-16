@@ -66,7 +66,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a href="#nav-primary"><img src="img/logo.png" alt="logo"></a>
+              <a href="http://www.forumensao.com"><img src="img/logo.png" alt="logo"></a>
             </div>
     
             <div class="collapse navbar-collapse" id="nav">
