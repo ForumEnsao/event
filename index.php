@@ -213,45 +213,7 @@
                         
                     </li>
                     
-        			<!-- SLIDE 4 -->
-                    <li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="img/slide_thumb_4.jpg"  data-saveperformance="off"  data-title="Slide">
-                        <!-- MAIN IMAGE -->
-                        <img src="img/slide4.jpg"  alt="fullslide7"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-                        <!-- LAYERS -->
-                
-                        <!-- LAYER NR. 1 -->
-                        <div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
-                            data-x="center" data-hoffset="270"
-                            data-y="center" data-voffset="-70"
-                            data-speed="600"
-                            data-start="800"
-                            data-easing="Power4.easeOut"
-                            data-splitin="none"
-                            data-splitout="none"
-                            data-elementdelay="0.01"
-                            data-endelementdelay="0.1"
-                            data-endspeed="500"
-                            data-endeasing="Power4.easeIn"
-                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">NULLA COMMODO
-                        </div>
-                
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
-                            data-x="center" data-hoffset="220"
-                            data-y="center" data-voffset="0"
-                            data-speed="600"
-                            data-start="900"
-                            data-easing="Power4.easeOut"
-                            data-splitin="none"
-                            data-splitout="none"
-                            data-elementdelay="0.01"
-                            data-endelementdelay="0.1"
-                            data-endspeed="500"
-                            data-endeasing="Power4.easeIn"
-                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">As long as there was coffee in the<br/> world, how bad could things be?
-                        </div>
-                        
-                    </li>
+
         
     			</ul>		
                 <div class="tp-bannertimer"></div>	
