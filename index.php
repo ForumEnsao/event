@@ -207,7 +207,7 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Une salon qui regroupe<br/> les projets les plus innovants<br/> au niveau du royaume <br/> touchant au domaine de l'intelligence artificielle.
+                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">La nouveauté de cette année.
                         </div>
                 
                         
