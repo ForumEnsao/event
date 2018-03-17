@@ -1677,7 +1677,7 @@
 
         
         <!-- google map -->
-		<div id="gmap_canvas"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13128.681000846935!2d-1.8963395999999983!3d34.6504031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sma!4v1521292297330" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+	<iframe id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13128.681000846935!2d-1.8963395999999983!3d34.6504031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sma!4v1521292297330" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
         
         <!-- FOOTER -->        
         <footer id="footer">
