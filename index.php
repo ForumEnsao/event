@@ -91,7 +91,7 @@
             <div class="tp-banner">
 				<ul>	
                 	<!-- SLIDE 1 -->
-			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="img/slide_thumb_1.jpg"  data-saveperformance="off"  data-title="Slide">
+			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
                         <!-- MAIN IMAGE -->
                         <img src="img/slide1.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
@@ -132,7 +132,7 @@
                     </li>
                     
         			<!-- SLIDE 2 -->
-			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="img/slide_thumb_2.jpg"  data-saveperformance="off"  data-title="Slide">
+			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
                         <!-- MAIN IMAGE -->
                         <img src="img/slide2.jpg"  alt="fullslide2"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
@@ -173,7 +173,7 @@
                     </li>
 					
 			<!-- SLIDE 3 -->
-			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="img/slide_thumb_3.jpg"  data-saveperformance="off"  data-title="Slide">
+			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
                         <!-- MAIN IMAGE -->
                         <img src="img/slide3.jpg"  alt="fullslide6"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
