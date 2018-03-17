@@ -109,7 +109,7 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Forum Ensao Entreprises
+                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;"><center>Forum Ensao Entreprises</center>
                         </div>
                 
                         <!-- LAYER NR. 2 -->
@@ -125,7 +125,7 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">La 7ème édition, le 27 et 28 Avril 2018.
+                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;"><center>La 7ème édition, le 27 et 28 Avril 2018.</center>
                         </div>
                 
                         
