@@ -191,7 +191,7 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">SKY HIGH
+                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Salon de l'innovation
                         </div>
                 
                         <!-- LAYER NR. 2 -->
@@ -207,7 +207,7 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Imperfection is beauty, madness<br/> is genius and it's better to be<br/> absolutely ridiculous than<br/> absolutely boring.
+                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Une salon qui regroupe<br/> les projets les plus innovants<br/> au niveau du royaume <br/> touchant au domaine de l'intelligence artificielle.
                         </div>
                 
                         
