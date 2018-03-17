@@ -97,7 +97,7 @@
                         <!-- LAYERS -->
                 
                         <!-- LAYER NR. 1 -->
-                        <div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
+                       <center> <div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
                             data-x="center" data-hoffset="250"
                             data-y="center" data-voffset="-70"
                             data-speed="600"
@@ -126,7 +126,7 @@
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
                             style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">La 7ème édition, le 27 et 28 Avril 2018.
-                        </div>
+			       </div> </center>
                 
                         
                     </li>
