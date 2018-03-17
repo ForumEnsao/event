@@ -207,7 +207,8 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">La nouveauté de cette année.
+                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">La nouveauté de cette année<br/><br/><br/>.
+
                         </div>
                 
                         
