@@ -1,5 +1,5 @@
 <?php
-	require_once '/home/forumensao/config.php';
+	require_once 'config.php';
 	$Nom_P = $pack = $Num = $Email ="";
 	$Nom_P_err  = $Num_err= $Email_err = "";
  
