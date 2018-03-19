@@ -1527,8 +1527,6 @@
         
         <!-- google map -->
 	<div id="gmap_canvas">
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBC7O4wGQl92MPQ84ElIgxmSREXztIsius&callback=initMap">
-    </script>
 		<script>
       function initMap() {
         var uluru = {lat: 34.6504031, lng: -1.8963396};
@@ -1541,6 +1539,8 @@
           map: map
         });
       }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBC7O4wGQl92MPQ84ElIgxmSREXztIsius&callback=initMap">
     </script>
 	</div>
         
