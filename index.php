@@ -1594,19 +1594,6 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
 
         <div class="subfooter">
         	<div class="container">
-                <div class="row">
-                    <div class="col-lg-12  list-unstyled list-inline pull-right uppercase">  </div>
-                    <div class="col-lg-12">
-                        <ul class="list-unstyled list-inline pull-right uppercase">
-                            <li><a href="#">Terms</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">FAQ</a></li>
-                            <li><a href="DossierDePresse.pdf">Dossier de presse</a></li>
-                            <li><a href="mailto:fensaoentreprises@gmail.com">Contact</a></li>
-                        </ul>
-                    </div>
-                    
-                </div>
                 <div class="copyright aziz">
                     &copy; Forum Ensao Entreprises 2018. All rights reserved.
             </div>
