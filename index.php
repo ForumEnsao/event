@@ -1201,7 +1201,7 @@
                                 <div class="item">
                                     <i class="pe pe-4x pe-7s-users"></i>
                                     <div class="desc">
-                                        <p class="number">+1000</p>
+                                        <p class="number">3000</p>
                                         <p class="description">visiteurs</p>
                                     </div>
                                 </div>
@@ -1209,7 +1209,7 @@
                                 <div class="item">
                                     <i class="pe pe-4x pe-7s-micro"></i>
                                     <div class="desc">
-                                        <p class="number">+4</p>
+                                        <p class="number">6</p>
                                         <p class="description">conférences</p>
                                     </div>
                                 </div>
@@ -1217,15 +1217,15 @@
                                 <div class="item">
                                     <i class="pe pe-4x pe-7s-portfolio"></i>
                                     <div class="desc">
-                                        <p class="number">+10</p>
-                                        <p class="description">sociétés</p>
+                                        <p class="number">25</p>
+                                        <p class="description">stands</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
                                     <i class="pe pe-va pe-4x pe-7s-clock"></i>
                                     <div class="desc">
-                                        <p class="number">+1860 h</p>
+                                        <p class="number">840</p>
                                         <p class="description">Réunions</p>
                                     </div>
                                 </div>
