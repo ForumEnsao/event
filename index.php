@@ -1184,7 +1184,7 @@
             </div>  
         </section>
         
-        <!-- FUNFACTS -->
+        <!-- statistics -->
         <section id="funfacts">
             <div class="funfacts-inner">
                 <div class="container">
@@ -1196,34 +1196,34 @@
                             <div id="funfacts-carousel">
                                 
                                 <div class="item">
-                                    <i class="pe pe-4x pe-7s-world"></i>
+                                    <i class="pe pe-4x pe-7s-users"></i>
                                     <div class="desc">
-                                        <p class="number">72</p>
-                                        <p class="description">countries</p>
+                                        <p class="number">3000</p>
+                                        <p class="description">visiteurs</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
                                     <i class="pe pe-4x pe-7s-micro"></i>
                                     <div class="desc">
-                                        <p class="number">38</p>
-                                        <p class="description">speakers</p>
+                                        <p class="number">6</p>
+                                        <p class="description">conférences</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <i class="pe pe-4x pe-7s-display2"></i>
+                                    <i class="pe pe-4x pe-7s-portfolio"></i>
                                     <div class="desc">
-                                        <p class="number">126</p>
-                                        <p class="description">programs</p>
+                                        <p class="number">25</p>
+                                        <p class="description">stands</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <i class="pe pe-va pe-4x pe-7s-id"></i>
+                                    <i class="pe pe-va pe-4x pe-7s-note2"></i>
                                     <div class="desc">
-                                        <p class="number">495</p>
-                                        <p class="description">attenders</p>
+                                        <p class="number">840</p>
+                                        <p class="description">Réunions</p>
                                     </div>
                                 </div>
                                 
