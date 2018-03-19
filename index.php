@@ -1525,6 +1525,16 @@
         
         <!-- google map -->
 		<div id="gmap_canvas"></div>
+		function myMap() {
+    var mapOptions = {
+        center: new google.maps.LatLng(51.5, -0.12),
+        zoom: 10,
+        mapTypeId: google.maps.MapTypeId.HYBRID
+    }
+var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions);
+}
+	<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+
         
         <!-- FOOTER -->        
         <footer id="footer">
