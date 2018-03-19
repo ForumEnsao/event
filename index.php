@@ -1525,7 +1525,8 @@
         
         <!-- google map -->
 		<div id="gmap_canvas"></div>
-		function myMap() {
+		<script>
+function myMap() {
     var mapOptions = {
         center: new google.maps.LatLng(51.5, -0.12),
         zoom: 10,
@@ -1533,6 +1534,7 @@
     }
 var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions);
 }
+</script>
 	<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
 
         
