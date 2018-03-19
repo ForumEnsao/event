@@ -1406,39 +1406,15 @@
         
         <!-- SPONSORS -->
         <section id="sponsors">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h2 class="uppercase">sponsors</h2>
-                        <p class="lead">ils nous ont fait confiance.</p>
-                        
-                        <div id="sponsors-carousel">
-                            
-                            <div class="sponsor">
-                                <img class="img-responsive" src="img/sponsor1.png" alt="">
-                            </div>
-                            
-                            <div class="sponsor">
-                                <img class="img-responsive" href="http://If-Maroc.com" src="img/sponsor2.png" alt="">
-                            </div>
-                            
-                            <div class="sponsor">
-                                <img class="img-responsive" src="img/sponsor3.png" alt="">
-                            </div>
-                            
-                            <div class="sponsor">
-                                <img class="img-responsive" href="" src="img/sponsor4.png" alt="">
-                            </div>
-                            
-                            <div class="sponsor">
-                                <img class="img-responsive" src="img/sponsor5.png" alt="">
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
+		
+            <div class="customer-logos">
+  <div class="slide"><img src="https://www.solodev.com/assets/carousel/sponsor1.png"></div>
+  <div class="slide"><img src="https://www.solodev.com/assets/carousel/sponsor2.png"></div>
+  <div class="slide"><img src="https://www.solodev.com/assets/carousel/sponsor3.png"></div>
+  <div class="slide"><img src="https://www.solodev.com/assets/carousel/sponsor4.png"></div>
+  <div class="slide"><img src="https://www.solodev.com/assets/carousel/sponsor5.png"></div>
+</div>
+				
         </section>
 
 
@@ -1620,6 +1596,10 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
         <script src="js/retina.js"></script>
         
         <script src="js/main.js"></script>
+			<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
         
       	
         
