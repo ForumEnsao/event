@@ -1591,16 +1591,17 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
         </footer>
         
         <!-- SUBFOOTER -->
-
+	
+	<center>
         <div class="subfooter">
         	<div class="container">
-                <center><div class="copyright aziz">
+                <div class="copyright aziz">
                     &copy; Forum Ensao Entreprises 2018. All rights reserved.
-            </div></center>
+            </div>
             </div>
             
         </div> 
-
+	</center>
 
         
     	<script src="js/jquery-1.11.1.min.js"></script>
