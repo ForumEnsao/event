@@ -279,7 +279,8 @@
         <!-- SPEAKERS -->
 		
        	 <section id="speakers">
-		 <h1> En cours ... </h1>
+		 <div class="gm-err-icon"><img src="http://maps.gstatic.com/mapfiles/api-3/images/icon_error.png" draggable="false" style="user-select: none;"></div>
+		 <center><h1> En cours ... </h1></center>
          </section>
 
         <!-- PROGRAM -->
