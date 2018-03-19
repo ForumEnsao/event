@@ -289,7 +289,7 @@
                     <div class="col-lg-12">
                     
                         <h2 class="uppercase">PROGRAMME</h2>
-                        <p class="lead">Le forum Ensao Entreprises s'étendera sur deux Jours .</p>
+                        <p class="lead">Le Forum ENSAO Entreprises s'étendera sur deux jours:</p>
                         
                         <!-- SCHEDULE TAB -->
                         <ul id="myTab" class="nav nav-tabs" role="tablist">
