@@ -1593,14 +1593,7 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
         <script src="js/waypoints.min.js"></script>
         <script src="js/jquery.counterup.min.js"></script>
         <script src="js/owl.carousel.min.js"></script>
-        <script src="js/retina.js"></script>
-        
-        <script src="js/main.js"></script>
-			<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-        
+        <script src="js/retina.js"></script>        
       	
         
         
