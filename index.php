@@ -1528,20 +1528,16 @@
         <!-- google map -->
 	<div id="gmap_canvas">
 		<script>
-      function initMap() {
-        var uluru = {lat: 34.6504031, lng: -1.8963396};
-        var map = new google.maps.Map(document.getElementById('gmap_canvas'), {
-          zoom: 18,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map
-        });
-      }
-    </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBC7O4wGQl92MPQ84ElIgxmSREXztIsius&callback=initMap">
-    </script>
+      function intiMap() {
+    var mapOptions = {
+        center: new google.maps.LatLng(51.5, -0.12),
+        zoom: 10,
+        mapTypeId: google.maps.MapTypeId.HYBRID
+    }
+var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions);
+}
+
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"></script>
 	</div>
         
         <!-- FOOTER -->        
