@@ -1547,7 +1547,7 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
                 	
                     <div class="col-lg-3 col-md-3 col-sm-6">
                     	<h4 class="uppercase">Forum Ensao Entreprises</h4>
-                        <p class="small">Vestibulum in ultrices justo. Praesent placerat justo metus, vitae malesuada lacus eleifend vel. Vivamus viverra volutpat leo, a gravida dolor posuere congue.</p>
+                        <p class="small">Le forum « ENSAO Entreprises » est un évènement regroupant les étudiants de l’Ecole Nationale des Sciences Appliquées d’Oujda et une vingtaine d’entreprises de partout. Celles-ci exercent dans des domaines divers et variés permettant à chaque élève d’y trouver ce qu’il cherche.</p>
                         <ul class="list-unstyled list-inline uppercase">
                             <li><a href="https://www.facebook.com/ForumENSAO"><i class="fa fa-lg fa-facebook"></i></a></li>
                             <li><a href="mailto:fensaoentreprises@gmail.com"><i class="fa fa-lg fa-envelope-o"></i></a></li>
@@ -1557,21 +1557,15 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
                     </div>
                     
                     <div class="col-lg-3 col-md-3 col-sm-6">
-                    	<h4 class="uppercase">FAQ</h4>
-                        <p class="small">Etiam nec porta risus. Aliquam id odio orci. Duis accumsan feugiat feugiat.</p>
+                    	<h4 class="uppercase">Contacts</h4>
+                        <p class="small">Pour plus d'informations.</p>
                         
                         <dl class="faqs">
-                        	<dt>Is this the first question?</dt>
-                        	<dd class="small">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</dd>
+                        	<dt>Redouane Couib</dt>
+                        	<dd class="small">06.48.06.76.84</dd>
                         
-                        	<dt>Mauris ac metus in justo rhoncus?</dt>
-                        	<dd class="small">Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</dd>
-                        
-                        	<dt>Praesent eleifend lacinia?</dt>
-                        	<dd class="small">Nam eget dui. Etiam rhoncus. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo.</dd>
-                            
-                            <dt> Cras id metus vitae?</dt>
-                        	<dd class="small">Vivamus dignissim urna id condimentum lacinia. Fusce tristique ultrices est, at semper turpis ullamcorper eu.</dd>
+                        	<dt>Rabia El Fassi</dt>
+                        	<dd class="small">06.51.14.20.02</dd>
                         </dl>
                     </div>
                     
