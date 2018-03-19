@@ -1381,8 +1381,8 @@
                             <div id="testimonial-carousel">
                                 <div class="item">
                                     <img class="img-circle" src="img/testimonial1.png" alt="">
-                                    <p class="lead">Nulla euismod sit amet ligula in vehicula. Vestibulum cursus ex non ante dignissim ultricies.Sed egestas hendrerit neque tincidunt mattis. Duis euismod porta tempus.</p>
-                                    <p class="name">Todd Stone</p>
+                                    <p class="lead">L'intelligence artificielle pourrait mettre fin à l'humanité.</p>
+                                    <p class="name">Stephen Hawking</p>
                                 </div>
                                 
                                 <div class="item">
