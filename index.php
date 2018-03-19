@@ -1524,7 +1524,7 @@
 
         
         <!-- google map -->
-		<div id="gmap_canvas"></div>
+		<div id="map"></div>
 		<script>
 function myMap() {
     var mapOptions = {
@@ -1532,7 +1532,7 @@ function myMap() {
         zoom: 10,
         mapTypeId: google.maps.MapTypeId.HYBRID
     }
-var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions);
+var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 }
 </script>
 	<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
