@@ -9,7 +9,7 @@
         
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="test">
+        <meta name="description" content="Forum Ensao Entreprises">
         <meta name="author" content="themecube">
         
         <!-- viewport settings -->
@@ -29,7 +29,7 @@
         <link rel="stylesheet" href="css/magnific-popup.css">
         <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
         <link rel="stylesheet" href="css/owl.carousel.css">
-        <link rel="stylesheet" href="css/owl.thee.css">
+        <link rel="stylesheet" href="css/owl.theme.css">
         <link rel="stylesheet" href="css/owl.transitions.css">
         <link rel="stylesheet" href="css/revolution.css">
         <link rel="stylesheet" href="css/revolution-extralayers.css">
@@ -66,7 +66,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a href="http://forumensao.com"><img src="img/logo.png" alt="logo"></a>
+              <a href="index.html"><img src="img/logo.png" alt="logo"></a>
             </div>
     
             <div class="collapse navbar-collapse" id="nav">
@@ -79,19 +79,19 @@
                 <li><a data-toggle="elementscroll" href="#sponsors">Sponsors</a></li>
 
                 <li><a data-toggle="elementscroll" href="#register">Register</a></li>
-                <li><a data-toggle="elementscroll" href="#footer">Contact</a></li>
+                <li><a data-toggle="elementscroll" href="#footer">test</a></li>
               </ul>
             </div>
             
           </div>
         </nav>
         
-       <!-- FULLSCREEN SLIDER -->
+        <!-- FULLSCREEN SLIDER -->
         <div class="tp-banner-container">
             <div class="tp-banner">
 				<ul>	
                 	<!-- SLIDE 1 -->
-			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
+                    <li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
                         <!-- MAIN IMAGE -->
                         <img src="img/slide1.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
@@ -126,13 +126,13 @@
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
                             style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">La 7ème édition, le 27 et 28 Avril 2018.
-			    </div> 
+                        </div>
                 
                         
                     </li>
                     
         			<!-- SLIDE 2 -->
-			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
+                    <li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
                         <!-- MAIN IMAGE -->
                         <img src="img/slide2.jpg"  alt="fullslide2"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
@@ -171,9 +171,9 @@
                 
                         
                     </li>
-					
-			<!-- SLIDE 3 -->
-			<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
+                    
+        			<!-- SLIDE 3 -->
+                    <li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
                         <!-- MAIN IMAGE -->
                         <img src="img/slide3.jpg"  alt="fullslide6"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                         <!-- LAYERS -->
@@ -191,7 +191,7 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Salon de l'innovation
+                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">SKY HIGH
                         </div>
                 
                         <!-- LAYER NR. 2 -->
@@ -207,19 +207,57 @@
                             data-endelementdelay="0.1"
                             data-endspeed="500"
                             data-endeasing="Power4.easeIn"
-                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">La nouveauté de cette année<br/><br/><br/>.
-
+                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Imperfection is beauty, madness<br/> is genius and it's better to be<br/> absolutely ridiculous than<br/> absolutely boring.
                         </div>
                 
                         
                     </li>
-					
+                    
+        			<!-- SLIDE 4 -->
+                    <li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="img/slide_thumb_4.jpg"  data-saveperformance="off"  data-title="Slide">
+                        <!-- MAIN IMAGE -->
+                        <img src="img/slide4.jpg"  alt="fullslide7"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                        <!-- LAYERS -->
+                
+                        <!-- LAYER NR. 1 -->
+                        <div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
+                            data-x="center" data-hoffset="270"
+                            data-y="center" data-voffset="-70"
+                            data-speed="600"
+                            data-start="800"
+                            data-easing="Power4.easeOut"
+                            data-splitin="none"
+                            data-splitout="none"
+                            data-elementdelay="0.01"
+                            data-endelementdelay="0.1"
+                            data-endspeed="500"
+                            data-endeasing="Power4.easeIn"
+                            style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">NULLA COMMODO
+                        </div>
+                
+                        <!-- LAYER NR. 2 -->
+                        <div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+                            data-x="center" data-hoffset="220"
+                            data-y="center" data-voffset="0"
+                            data-speed="600"
+                            data-start="900"
+                            data-easing="Power4.easeOut"
+                            data-splitin="none"
+                            data-splitout="none"
+                            data-elementdelay="0.01"
+                            data-endelementdelay="0.1"
+                            data-endspeed="500"
+                            data-endeasing="Power4.easeIn"
+                            style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">As long as there was coffee in the<br/> world, how bad could things be?
+                        </div>
+                        
+                    </li>
         
     			</ul>		
                 <div class="tp-bannertimer"></div>	
             </div>
 		</div>
-   
+    
     	<!-- HIGHLIGHT -->
         <section id="highlight">
         	<div class="container-fluid">
@@ -277,12 +315,163 @@
         </section>
                  
         <!-- SPEAKERS -->
-		
-       	 <section id="speakers">
-		 <div class="gm-err-icon"><img src="https://akvapark.lt/wp-content/uploads/2013/09/maintenance_2-300x300.png" draggable="false" style="user-select: none;"></div>
-		 <center><h1> En cours ... </h1></center>
-         </section>
-
+        <section id="speakers">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-lg-12">
+                        <h2 class="uppercase">speakers</h2>
+                        <p class="lead">Nam pellentesque fringilla faucibus. Aliquam tortor ex, egestas porta eget, pretium at lorem.</p>
+                    </div> 
+                    
+                    <ul id="list-speaker" class="list-unstyled"> 
+                        
+                        <!-- SPEAKER 1 -->	
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker1.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Stanley Willis</h4>
+                                    <p class="company">Fermentum Co.</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 2 -->	
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker2.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Jane Richards</h4>
+                                    <p class="company">Hipmunk</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 3 -->	
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker3.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Martin Pearson</h4>
+                                    <p class="company">Kitten Co.</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 4 -->	
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker4.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Jessica Green</h4>
+                                    <p class="company">Magna</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 5 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker5.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Herman Russell</h4>
+                                    <p class="company">Zenquoace</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 6 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker6.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Joan Graves</h4>
+                                    <p class="company">Howtech</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 7 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker7.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Peter Reid</h4>
+                                    <p class="company">Ventolax</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 8 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker8.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>			
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Tracey Curtis</h4>
+                                    <p class="company">Zathmedia</p>
+                                </div>   
+                            </div>
+                        </li>
+                    
+                    </ul>
+                    
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                    	<a id="loadmore" class="button button-small button-line-dark">load more</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        
         <!-- PROGRAM -->
         <section id="program">
             <div class="container">
@@ -1137,15 +1326,15 @@
                         <div class="row">
                         
                             <div class="col-lg-4 col-md-4 col-sm-3">
-                                <img class="img-responsive" src="img/innov.png" alt="salon de l'innovation">
+                                <img class="img-responsive" src="img/innov.png" alt=" ">
                             </div>
                             
                             <div class="col-lg-8 col-md-8 col-sm-9">
-                                <h3>Salon de l'innovation<br>Le 28 Avril 2018</h3>
-                                <p>C'est un salon qui va regrouper les projets les plus innovants au niveau du royaume touchant au domaine de l'intelligence artificielle, que ça soit une application intelligente, un concept (avancé) intelligent, ou un robot intelligent nous allons créer pour vous une exposition ouverte présentant ces prouesses de la technologie au grand public.</p>
+                                <h3>Quisque mollis est justo<br>nec pretium elit vulputate sit amet.</h3>
+                                <p>In at velit eu est vehicula posuere. Sed sagittis, urna nec pellentesque molestie, est nisi laoreet metus. Nam ac turpis ut orci eleifend suscipit eu in odio. Morbi volutpat mattis urna, et fringilla eros ultrices eu.</p>
                                 <center>
-                                <a class="button button-small button-line-dark" href="https://www.eventbrite.com/e/competition-de-forum-ensao-entreprises-salon-de-linnovation-tickets-41542167742">Réserver votre ticket</a><br> &nbsp; <br>
-                                <a class="button button-small button-line-dark" href="img/charte.pdf">Téléchargement de la charte</a></center>
+                                <a class="button button-small button-line-dark" href="https://www.eventbrite.com/e/competition-de-forum-ensao-entreprises-salon-de-linnovation-tickets-41542167742">Plus d'informations</a><br> &nbsp; <br>
+                                <a class="button button-small button-line-dark" href="CharteCompetition.pdf">Téléchargement de la charte</a></center>
                             </div>
                             
                         </div>
@@ -1156,7 +1345,7 @@
         </section>
 
         
-        <!-- Lieu -->
+        <!-- VENUE -->
         <section id="venue">
         
             <div class="venue">
@@ -1187,7 +1376,7 @@
             </div>  
         </section>
         
-        <!-- statistics -->
+        <!-- FUNFACTS -->
         <section id="funfacts">
             <div class="funfacts-inner">
                 <div class="container">
@@ -1199,34 +1388,34 @@
                             <div id="funfacts-carousel">
                                 
                                 <div class="item">
-                                    <i class="pe pe-4x pe-7s-users"></i>
+                                    <i class="pe pe-4x pe-7s-world"></i>
                                     <div class="desc">
-                                        <p class="number">3000</p>
-                                        <p class="description">visiteurs</p>
+                                        <p class="number">72</p>
+                                        <p class="description">countries</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
                                     <i class="pe pe-4x pe-7s-micro"></i>
                                     <div class="desc">
-                                        <p class="number">6</p>
-                                        <p class="description">conférences</p>
+                                        <p class="number">38</p>
+                                        <p class="description">speakers</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <i class="pe pe-4x pe-7s-portfolio"></i>
+                                    <i class="pe pe-4x pe-7s-display2"></i>
                                     <div class="desc">
-                                        <p class="number">25</p>
-                                        <p class="description">stands</p>
+                                        <p class="number">126</p>
+                                        <p class="description">programs</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <i class="pe pe-va pe-4x pe-7s-note2"></i>
+                                    <i class="pe pe-va pe-4x pe-7s-id"></i>
                                     <div class="desc">
-                                        <p class="number">840</p>
-                                        <p class="description">Réunions</p>
+                                        <p class="number">495</p>
+                                        <p class="description">attenders</p>
                                     </div>
                                 </div>
                                 
@@ -1381,8 +1570,8 @@
                             <div id="testimonial-carousel">
                                 <div class="item">
                                     <img class="img-circle" src="img/testimonial1.png" alt="">
-                                    <p class="lead">L'intelligence artificielle pourrait mettre fin à l'humanité.</p>
-                                    <p class="name">Stephen Hawking</p>
+                                    <p class="lead">Nulla euismod sit amet ligula in vehicula. Vestibulum cursus ex non ante dignissim ultricies.Sed egestas hendrerit neque tincidunt mattis. Duis euismod porta tempus.</p>
+                                    <p class="name">Todd Stone</p>
                                 </div>
                                 
                                 <div class="item">
@@ -1405,7 +1594,7 @@
         </section>
         
         <!-- SPONSORS -->
-                <section id="sponsors">
+        <section id="sponsors">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -1516,7 +1705,7 @@
                     </div>
                     
                     <div class="col-lg-12 text-center">
-                        <a class="button button-small button-line-dark html-popup" href="register.php">Enregistrez Vous !</a>
+                        <a class="button button-small button-line-dark html-popup" href="register.html">Enregistrez Vous !</a>
                     </div>
                     
                 </div>
@@ -1526,19 +1715,7 @@
 
         
         <!-- google map -->
-	<div id="gmap_canvas">
-		<script>
-      function intiMap() {
-    var mapOptions = {
-        center: new google.maps.LatLng(51.5, -0.12),
-        zoom: 10,
-        mapTypeId: google.maps.MapTypeId.HYBRID
-    }
-var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions);
-}
-
-    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"></script>
-	</div>
+		<div id="gmap_canvas"></div>
         
         <!-- FOOTER -->        
         <footer id="footer">
@@ -1547,7 +1724,7 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
                 	
                     <div class="col-lg-3 col-md-3 col-sm-6">
                     	<h4 class="uppercase">Forum Ensao Entreprises</h4>
-                        <p class="small">Le forum « ENSAO Entreprises » est un évènement regroupant les étudiants de l’Ecole Nationale des Sciences Appliquées d’Oujda et une vingtaine d’entreprises de partout. Celles-ci exercent dans des domaines divers et variés permettant à chaque élève d’y trouver ce qu’il cherche.</p>
+                        <p class="small">Vestibulum in ultrices justo. Praesent placerat justo metus, vitae malesuada lacus eleifend vel. Vivamus viverra volutpat leo, a gravida dolor posuere congue.</p>
                         <ul class="list-unstyled list-inline uppercase">
                             <li><a href="https://www.facebook.com/ForumENSAO"><i class="fa fa-lg fa-facebook"></i></a></li>
                             <li><a href="mailto:fensaoentreprises@gmail.com"><i class="fa fa-lg fa-envelope-o"></i></a></li>
@@ -1557,15 +1734,21 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
                     </div>
                     
                     <div class="col-lg-3 col-md-3 col-sm-6">
-                    	<h4 class="uppercase">Contacts</h4>
-                        <p class="small">Pour plus d'informations.</p>
+                    	<h4 class="uppercase">FAQ</h4>
+                        <p class="small">Etiam nec porta risus. Aliquam id odio orci. Duis accumsan feugiat feugiat.</p>
                         
                         <dl class="faqs">
-                        	<dt>Redouane Chouib</dt>
-                        	<dd class="small">06.48.06.76.84</dd>
+                        	<dt>Is this the first question?</dt>
+                        	<dd class="small">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</dd>
                         
-                        	<dt>Rabia El Fassi</dt>
-                        	<dd class="small">06.51.14.20.02</dd>
+                        	<dt>Mauris ac metus in justo rhoncus?</dt>
+                        	<dd class="small">Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</dd>
+                        
+                        	<dt>Praesent eleifend lacinia?</dt>
+                        	<dd class="small">Nam eget dui. Etiam rhoncus. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo.</dd>
+                            
+                            <dt> Cras id metus vitae?</dt>
+                        	<dd class="small">Vivamus dignissim urna id condimentum lacinia. Fusce tristique ultrices est, at semper turpis ullamcorper eu.</dd>
                         </dl>
                     </div>
                     
@@ -1591,17 +1774,29 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
         </footer>
         
         <!-- SUBFOOTER -->
-	
-	<center>
+
         <div class="subfooter">
         	<div class="container">
+                <div class="row">
+                    <div class="col-lg-12  list-unstyled list-inline pull-right uppercase">  </div>
+                    <div class="col-lg-12">
+                        <ul class="list-unstyled list-inline pull-right uppercase">
+                            <li><a href="#">Terms</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">FAQ</a></li>
+                            <li><a href="DossierDePresse.pdf">Dossier de presse</a></li>
+                            <li><a href="mailto:fensaoentreprises@gmail.com">Contact</a></li>
+                        </ul>
+                    </div>
+                    
+                </div>
                 <div class="copyright aziz">
                     &copy; Forum Ensao Entreprises 2018. All rights reserved.
             </div>
             </div>
             
         </div> 
-	</center>
+
 
         
     	<script src="js/jquery-1.11.1.min.js"></script>
@@ -1617,7 +1812,10 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
         <script src="js/waypoints.min.js"></script>
         <script src="js/jquery.counterup.min.js"></script>
         <script src="js/owl.carousel.min.js"></script>
-        <script src="js/retina.js"></script>        
+        <script src="js/retina.js"></script>
+        
+        <script src="js/main.js"></script>
+        
       	
         
         
