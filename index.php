@@ -1537,8 +1537,6 @@
                         <ul class="list-unstyled list-inline uppercase">
                             <li><a href="https://www.facebook.com/ForumENSAO"><i class="fa fa-lg fa-facebook"></i></a></li>
                             <li><a href="mailto:fensaoentreprises@gmail.com"><i class="fa fa-lg fa-envelope-o"></i></a></li>
-                            <li><a href="#"><i class="fa fa-lg fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-lg fa-google-plus"></i></a></li>
                         </ul>
                     </div>
                     
