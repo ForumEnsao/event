@@ -1385,14 +1385,14 @@
                                 
                                 <div class="item">
                                     <img class="img-circle" src="img/testimonial2.png" alt="">
-                                    <p class="lead">Nulla euismod sit amet ligula in vehicula. Vestibulum cursus ex non ante dignissim ultricies. Sed egestas hendrerit neque tincidunt mattis. Duis euismod porta tempus.</p>
-                                    <p class="name">Minnie Pierce</p>
+                                    <p class="lead">Une année de travail sur l'intelligence artificielle est suffisante pour vous faire croire en Dieu.</p>
+                                    <p class="name">Alan Jay Perlis</p>
                                 </div>
                                 
                                 <div class="item">
                                     <img class="img-circle" src="img/testimonial3.png" alt="">
-                                    <p class="lead">Nulla euismod sit amet ligula in vehicula. Vestibulum cursus ex non ante dignissim ultricies. Sed egestas hendrerit neque tincidunt mattis. Duis euismod porta tempus.</p>
-                                    <p class="name">Lena Kim</p>
+                                    <p class="lead">La tristesse de l'intelligence artificielle est qu'elle est sans artifice, donc sans intelligence.</p>
+                                    <p class="name">Jean Baudrillard</p>
                                 </div>
                             </div>
                          </div>   
