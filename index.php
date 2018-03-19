@@ -279,7 +279,7 @@
         <!-- SPEAKERS -->
 		
        	 <section id="speakers">
-		 <div class="gm-err-icon"><img src="http://maps.gstatic.com/mapfiles/api-3/images/icon_error.png" draggable="false" style="user-select: none;"></div>
+		 <div class="gm-err-icon"><img src="https://akvapark.lt/wp-content/uploads/2013/09/maintenance_2-300x300.png" draggable="false" style="user-select: none;"></div>
 		 <center><h1> En cours ... </h1></center>
          </section>
 
