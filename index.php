@@ -1156,7 +1156,7 @@
         </section>
 
         
-        <!-- VENUE -->
+        <!-- Lieu -->
         <section id="venue">
         
             <div class="venue">
@@ -1187,7 +1187,7 @@
             </div>  
         </section>
         
-        <!-- FUNFACTS -->
+        <!-- statistics -->
         <section id="funfacts">
             <div class="funfacts-inner">
                 <div class="container">
@@ -1199,34 +1199,34 @@
                             <div id="funfacts-carousel">
                                 
                                 <div class="item">
-                                    <i class="pe pe-4x pe-7s-world"></i>
+                                    <i class="pe pe-4x pe-7s-users"></i>
                                     <div class="desc">
-                                        <p class="number">72</p>
-                                        <p class="description">countries</p>
+                                        <p class="number">+1000</p>
+                                        <p class="description">visiteurs</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
                                     <i class="pe pe-4x pe-7s-micro"></i>
                                     <div class="desc">
-                                        <p class="number">38</p>
-                                        <p class="description">speakers</p>
+                                        <p class="number">+4</p>
+                                        <p class="description">conférences</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <i class="pe pe-4x pe-7s-display2"></i>
+                                    <i class="pe pe-4x pe-7s-portfolio"></i>
                                     <div class="desc">
-                                        <p class="number">126</p>
-                                        <p class="description">programs</p>
+                                        <p class="number">+10</p>
+                                        <p class="description">sociétés</p>
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <i class="pe pe-va pe-4x pe-7s-id"></i>
+                                    <i class="pe pe-va pe-4x pe-7s-clock"></i>
                                     <div class="desc">
-                                        <p class="number">495</p>
-                                        <p class="description">attenders</p>
+                                        <p class="number">+1860 h</p>
+                                        <p class="description">Réunions</p>
                                     </div>
                                 </div>
                                 
@@ -1561,7 +1561,7 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
                         <p class="small">Pour plus d'informations.</p>
                         
                         <dl class="faqs">
-                        	<dt>Redouane Couib</dt>
+                        	<dt>Redouane Chouib</dt>
                         	<dd class="small">06.48.06.76.84</dd>
                         
                         	<dt>Rabia El Fassi</dt>
