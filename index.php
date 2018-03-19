@@ -1594,9 +1594,9 @@ var map = new google.maps.Map(document.getElementById("gmap_canvas"), mapOptions
 
         <div class="subfooter">
         	<div class="container">
-                <div class="copyright aziz">
+                <center><div class="copyright aziz">
                     &copy; Forum Ensao Entreprises 2018. All rights reserved.
-            </div>
+            </div></center>
             </div>
             
         </div> 
