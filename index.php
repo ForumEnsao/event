@@ -1135,15 +1135,15 @@
                         <div class="row">
                         
                             <div class="col-lg-4 col-md-4 col-sm-3">
-                                <img class="img-responsive" src="img/innov.png" alt=" ">
+                                <img class="img-responsive" src="img/innov.png" alt="salon de l'innovation">
                             </div>
                             
                             <div class="col-lg-8 col-md-8 col-sm-9">
-                                <h3>Quisque mollis est justo<br>nec pretium elit vulputate sit amet.</h3>
-                                <p>In at velit eu est vehicula posuere. Sed sagittis, urna nec pellentesque molestie, est nisi laoreet metus. Nam ac turpis ut orci eleifend suscipit eu in odio. Morbi volutpat mattis urna, et fringilla eros ultrices eu.</p>
+                                <h3>Salon de l'innovation<br>Le 28 Avril 2018</h3>
+                                <p>C'est un salon qui va regrouper les projets les plus innovants au niveau du royaume touchant au domaine de l'intelligence artificielle, que ça soit une application intelligente, un concept (avancé) intelligent, ou un robot intelligent nous allons créer pour vous une exposition ouverte présentant ces prouesses de la technologie au grand public.</p>
                                 <center>
-                                <a class="button button-small button-line-dark" href="https://www.eventbrite.com/e/competition-de-forum-ensao-entreprises-salon-de-linnovation-tickets-41542167742">Plus d'informations</a><br> &nbsp; <br>
-                                <a class="button button-small button-line-dark" href="CharteCompetition.pdf">Téléchargement de la charte</a></center>
+                                <a class="button button-small button-line-dark" href="https://www.eventbrite.com/e/competition-de-forum-ensao-entreprises-salon-de-linnovation-tickets-41542167742">Réserver votre ticket</a><br> &nbsp; <br>
+                                <a class="button button-small button-line-dark" href="img/charte.pdf">Téléchargement de la charte</a></center>
                             </div>
                             
                         </div>
@@ -1152,7 +1152,6 @@
                 </div>
             </div>
         </section>
-
         
         <!-- VENUE -->
         <section id="venue">
