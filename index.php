@@ -1516,7 +1516,7 @@
                     </div>
                     
                     <div class="col-lg-12 text-center">
-                        <a class="button button-small button-line-dark html-popup" href="register.html">Enregistrez Vous !</a>
+                        <a class="button button-small button-line-dark html-popup" href="register.php">Enregistrez Vous !</a>
                     </div>
                     
                 </div>
