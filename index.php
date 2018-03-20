@@ -4,7 +4,14 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 	<head>
-    	
+	
+		<style>
+      #map {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
+		
         <title>Forum Ensao Entreprises</title>
         
         <meta charset="utf-8">
@@ -1527,26 +1534,25 @@
         
         <!-- google map -->
 		<div id="gmap_canvas"></div>
-	<div id="googlemapstest">
-		
-	<script>
-	      function initMap() {
-		var uluru = {lat: -25.363, lng: 131.044};
-		var map = new google.maps.Map(document.getElementById('map'), {
-		  zoom: 4,
-		  center: uluru
-		});
-		var marker = new google.maps.Marker({
-		  position: uluru,
-		  map: map
-		});
-	      }
-	    </script>
-	    <script async defer
-	    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCewf7MJRtKKjlTcKX0R2gGALc-RHiPVU&callback=initMap">
-	    </script>
-		
-	</div>
+	
+<div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCewf7MJRtKKjlTcKX0R2gGALc-RHiPVU&callback=initMap">
+    </script>	
+	
         <!-- FOOTER -->        
         <footer id="footer">
         	<div class="container">
