@@ -279,7 +279,7 @@
          <section id="speakers">
 		 <div class="gm-err-icon">
 			 <img src="https://akvapark.lt/wp-content/uploads/2013/09/maintenance_2-300x300.png" draggable="false" style="user-select: none;">
-		 <center><h1> En cours ... </h1></center>
+		 <div class="gm-err-title">En cours ...</div>
 		 </div>
          </section>
         
