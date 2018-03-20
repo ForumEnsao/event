@@ -890,6 +890,17 @@ a {
 	-ms-transform:none !important;
 	border-top:1px solid #f2f2f2;
 }
+#googlemapstest {
+	height:220px;
+	transform:none !important;
+	-webkit-transform:none !important;
+	-moz-transform:none !important;
+	-o-transform:none !important;
+	-ms-transform:none !important;
+	border-top:1px solid #f2f2f2;
+}
+
+
 
 .gmnoprint,
 .gm-style-cc {
