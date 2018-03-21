@@ -1536,6 +1536,10 @@
 		<div id="gmap_canvas"></div>
 	
 
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCewf7MJRtKKjlTcKX0R2gGALc-RHiPVU&callback=initMap">
+    </script>	
+	
 	
         <!-- FOOTER -->        
         <footer id="footer">
