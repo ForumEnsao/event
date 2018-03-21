@@ -1538,9 +1538,9 @@
 <div id="map">
     <script>
       function initMap() {
-        var uluru = {lat: 34.6524479, lng: -1.9079899};
+        var uluru = {lat: 34.6506628, lng: -1.8964698};
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
+          zoom: 12,
           center: uluru
         });
         var marker = new google.maps.Marker({
