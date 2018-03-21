@@ -1533,8 +1533,10 @@
 
         
         <!-- google map -->
-		<div id="gmap_canvas"  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCewf7MJRtKKjlTcKX0R2gGALc-RHiPVU&callback=initMap">
-    </script> ></div>
+		<div id="gmap_canvas">
+			<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCewf7MJRtKKjlTcKX0R2gGALc-RHiPVU&callback=initMap">
+    </script>
+	</div>
 	
 
     	
