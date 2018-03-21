@@ -1232,7 +1232,7 @@
                                 <div class="item">
                                     <i class="pe pe-va pe-4x pe-7s-note2"></i>
                                     <div class="desc">
-                                        <p class="number">840</p>
+                                        <p class="number">192</p>
                                         <p class="description">Réunions</p>
                                     </div>
                                 </div>
