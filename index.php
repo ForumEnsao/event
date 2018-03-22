@@ -82,7 +82,7 @@
                 <li><a data-toggle="elementscroll" href="#speakers">Conférenciers</a></li>
                 <li><a data-toggle="elementscroll" href="#program">Programme</a></li>
                 <li><a data-toggle="elementscroll" href="#venue">Lieu</a></li>
-                <li><a data-toggle="elementscroll" href="#gallery">Gallerie</a></li>
+                <li><a data-toggle="elementscroll" href="#gallery">Galerie</a></li>
                 <li><a data-toggle="elementscroll" href="#sponsors">Sponsors</a></li>
 
                 <li><a data-toggle="elementscroll" href="#register">Stands</a></li>
@@ -1252,8 +1252,7 @@
                 <div class="row">
                 
                     <div class="col-lg-12">
-                        <h2 class="uppercase">gallerie</h2>
-                        <p class="lead">Nam pellentesque fringilla faucibus. Aliquam tortor ex, egestas porta eget, pretium at lorem.</p>
+                        <h2 class="uppercase">galerie</h2>
                         
                         <div id="timeline" data-columns>
                             <div class="item wrap">
