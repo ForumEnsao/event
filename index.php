@@ -1252,7 +1252,7 @@
                 <div class="row">
                 
                     <div class="col-lg-12">
-                        <h2 class="uppercase">gallery</h2>
+                        <h2 class="uppercase">gallerie</h2>
                         <p class="lead">Nam pellentesque fringilla faucibus. Aliquam tortor ex, egestas porta eget, pretium at lorem.</p>
                         
                         <div id="timeline" data-columns>
@@ -1275,8 +1275,7 @@
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb3.png" alt="">
                                 <div class="overlay"></div>
-                                <div class="icon">
-                                    <a class="image-popup" href="http://www.assafir24.ma/2018/03/15/%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%85/" title="<h4>Sed at rutrum felis</h4>assafir24"><i class="pe-3x pe-7s-plus"></i></a>
+                                <div class="icon" href="http://www.assafir24.ma/2018/03/15/%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%85/">
                                 </div>
                             </div>
                             
