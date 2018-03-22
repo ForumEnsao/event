@@ -1258,9 +1258,6 @@
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb1.png" alt="">
                                 <div class="overlay"></div>
-                                <div class="icon">
-                                    <a class="image-popup" href="img/gal/Gal1.jpg" title="<h4>Sed at rutrum felis</h4>Curabitur nec metus tempor, malesuada quam a, laoreet urna."><i class="pe-3x pe-7s-plus"></i></a>
-                                </div>
                             </div>
                             
                             <div class="item wrap">
