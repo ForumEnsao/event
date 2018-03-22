@@ -99,7 +99,7 @@
                 
                 <div class="col-lg-12">
                     <h2 class="uppercase">Enregistrement</h2>
-                    <p>Intéressé ? Vous pouvez réserver un stand pour votre entreprise en un simple clique !</p>
+                    <p>Remplissez ce formulaire et le tour est joué !</p>
                 </div>
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                 <!-- REGISTER FORM -->
