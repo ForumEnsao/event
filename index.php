@@ -85,7 +85,7 @@
                 <li><a data-toggle="elementscroll" href="#gallery">Gallerie</a></li>
                 <li><a data-toggle="elementscroll" href="#sponsors">Sponsors</a></li>
 
-                <li><a data-toggle="elementscroll" href="#register">Register</a></li>
+                <li><a data-toggle="elementscroll" href="#register">Stands</a></li>
                 <li><a data-toggle="elementscroll" href="#footer">Contacts</a></li>
               </ul>
             </div>
@@ -1451,13 +1451,13 @@
 
 
         
-        <!-- REGISTER -->
+        <!-- stands -->
         <section id="register">
             <div class="container">
                 <div class="row">
                 
                     <div class="col-lg-12">
-                        <h2 class="uppercase text-center">register</h2>
+                        <h2 class="uppercase text-center">stands</h2>
                         <p class="lead text-center">Intéressé ? Vous pouvez réserver un stand pour votre entreprise en un simple clique !</p>
                     </div>
                 
