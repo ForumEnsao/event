@@ -1275,7 +1275,7 @@
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb3.png" alt="">
                                 <div class="overlay"></div>
-                                <div class="icon" href="http://www.assafir24.ma/2018/03/15/%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%85/">
+                                    <a class="image-popup" href="http://www.assafir24.ma/2018/03/15/%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%85/"></a>
                                 </div>
                             </div>
                             
