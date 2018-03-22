@@ -1303,15 +1303,11 @@
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb10.png" alt="">
                                 <div class="overlay"></div>
-                                    <a class="image-popup" href="img/gallery-img.jpg" title="<h4>Sed at rutrum felis</h4>Curabitur nec metus tempor, malesuada quam a, laoreet urna."><i class="pe-3x pe-7s-plus"></i></a>
-                                </div>
                             </div>
                             
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb11.png" alt="">
                                 <div class="overlay"></div>
-                                    <a class="image-popup" href="img/gallery-img.jpg" title="<h4>Sed at rutrum felis</h4>Curabitur nec metus tempor, malesuada quam a, laoreet urna."><i class="pe-3x pe-7s-plus"></i></a>
-                                </div>
                             </div>
                             
                             <div class="item wrap">
@@ -1322,15 +1318,11 @@
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb13.png" alt="">
                                 <div class="overlay"></div>
-                                    <a class="image-popup" href="img/gallery-img.jpg" title="<h4>Sed at rutrum felis</h4>Curabitur nec metus tempor, malesuada quam a, laoreet urna."><i class="pe-3x pe-7s-plus"></i></a>
-                                </div>
                             </div>
                             
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb14.png" alt="">
                                 <div class="overlay"></div>
-                                    <a class="image-popup" href="img/gallery-img.jpg" title="<h4>Sed at rutrum felis</h4>Curabitur nec metus tempor, malesuada quam a, laoreet urna."><i class="pe-3x pe-7s-plus"></i></a>
-                                </div>
                             </div>
                             
                             
