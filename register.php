@@ -99,14 +99,14 @@
                 
                 <div class="col-lg-12">
                     <h2 class="uppercase">Enregistrement</h2>
-                    <p>Maecenas vitae tincidunt nibh. Praesent tristique lacus quis ante venenatis posuere. Aenean adipiscing dictum mollis. Suspendisse potenti. Proin pretium lectus ut leo fringilla mattis. Mauris ultrices rutrum sagittis. Pellentesque vitae nibh elit. Fusce lacinia, elit non iaculis fermentum, metus justo posuere neque, sed viverra ligula turpis sit amet quam. Integer ac risus libero. Curabitur sit amet sem leo</p>
+                    <p>Intéressé ? Vous pouvez réserver un stand pour votre entreprise en un simple clique !</p>
                 </div>
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                 <!-- REGISTER FORM -->
                 <div class="register-form col-lg-12">
                     <div class="control-group">
                     <div class="controls">
-                        <label for="Nom_p">Nom et Prenom</label><br>
+                        <label for="Nom_p">Nom de l'entreprise</label><br>
                         <input type="text" name="Nom_p" id="Nom_p" required data-validation-required-message="Entrez votre nom" />
                     </div>
                     </div>
@@ -130,9 +130,9 @@
                         <label for="pack">TYPE</label><br>
                         <select name="pack" id="pack">
                             <option value="" disabled selected="selected">Sélectionnez le pack</option>
-                            <option value="Basic">Formule Basique</option>
-                            <option value="Gold">Formule Gold</option>
-                            <option value="Diamant">Formule Diamant</option>
+                            <option value="Basic">Formule Basic</option>
+                            <option value="Gold">Formule Deluxe</option>
+                            <option value="Diamant">Formule Premium</option>
                         </select>
                     </div>
                     </div>
