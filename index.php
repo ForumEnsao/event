@@ -251,7 +251,7 @@
                     
                     <div class="col-lg-12 text-center">
                         <h1>Forum Ensao Entreprises</h1>
-                        <p class="lead">Le forum ENSAO Entreprises est un événement indispensable pour une école d’ingénieurs.<br>Il  permet de rapprocher le monde de l'entreprise aux étudiants et vice versa en créant un échange d’informations entre les deux parties et vise également à aider l’étudiant à agrandir sa palette de contact professionnelle et découvrir  les opportunités qui existent sur le marché.<br>Il a également pour ambition de devenir un rendez-vous annuel incontournable qui traduit notre volonté de rapprocher l’ENSAO du monde professionnel et nos étudiants de celui de l’entreprise.<br>Le forum ENSAO Entreprise traitera cette année un thème pour le moins inexploré dans la région de l'oriental, il s'agit de l'intelligence artificielle, autant dire que l'originalité sera au rendez-vous, alors le serez-vous !</p>
+                        <p class="lead">Le forum ENSAO Entreprises est un événement indispensable pour une école d’ingénieurs.<br>Il  permet de rapprocher le monde de l'entreprise aux étudiants et vice versa en créant un échange d’informations entre les deux parties et vise également à aider l’étudiant à agrandir sa palette de contacts professionnelle et découvrir  les opportunités qui existent sur le marché.<br>Il a également pour ambition de devenir un rendez-vous annuel incontournable qui traduit notre volonté de rapprocher l’ENSAO du monde professionnel et nos étudiants de celui de l’entreprise.<br>Le forum ENSAO Entreprise traitera cette année un thème pour le moins inexploré dans la région de l'oriental, il s'agit de l'intelligence artificielle, autant dire que l'originalité sera au rendez-vous, alors le serez-vous !</p>
                     </div>
                     
                     <div class="col-lg-10 col-lg-offset-1 col-md-12 text-center">
@@ -260,19 +260,19 @@
                             <div class="feature col-lg-4 col-md-4 col-sm-4">
                                 <i class="pe-4x pe-7s-refresh-2"></i>
                                 <h4>Espace d’échange</h4>
-                                <p>Le Forum Ensao Entreprises vise à créer une atmosphère d'échange entre l'étudiant et l'entreprise. Ça permettra de rassembler des professionnels de divers secteurs.</p>
+                                <p>Le Forum Ensao Entreprises vise à créer une atmosphère d'échange entre l'étudiant et l'entreprise. cela permettra de rassembler des professionnels de divers secteurs.</p>
                             </div>
                             
                             <div class="feature col-lg-4 col-md-4 col-sm-4">
                                 <i class="pe-4x pe-7s-micro"></i>
                                 <h4>Conférences</h4>
-                                <p>Nombreuses conférences seront organisées pendant les deux jours du forum, portant essentiellement sur le thème de l'intelligence artificiel.</p>
+                                <p>Nombreuses conférences seront organisées pendant les deux jours du forum, portant essentiellement sur le thème de l'intelligence artificielle.</p>
                             </div>
                             
                             <div class="feature col-lg-4 col-md-4 col-sm-4">
                                 <i class="pe-4x pe-7s-portfolio "></i>
                                 <h4>Recrutement </h4>
-                                <p>Le forum représente une plateforme de recrutement plus efficace et plus rapide pour les entreprises, cela permettra aussi a ces dernières de renforcer leur notoriété et d'embellir leur images.</p>
+                                <p>Le forum représente une plateforme de recrutement plus efficace et plus rapide pour les entreprises, cela permettra aussi a ces dernières de renforcer leur notoriété et d'embellir leur image.</p>
                             </div>
                                                         
                         </div>
@@ -490,7 +490,7 @@
                                                     
                                                     <h4 class="panel-title">
                                                         <a data-toggle="collapse" data-parent="#accordion" href="#Program3" aria-expanded="true" aria-controls="Program3">
-                                                       Pause cafe
+                                                       Pause café
                                                         </a>
                                                     </h4>
                                                 </div>
@@ -1458,7 +1458,7 @@
                 
                     <div class="col-lg-12">
                         <h2 class="uppercase text-center">register</h2>
-                        <p class="lead text-center">Nam pellentesque fringilla faucibus. Aliquam tortor ex, egestas porta eget, pretium at lorem.</p>
+                        <p class="lead text-center">Intéressé ? Vous pouvez réserver un stand pour votre entreprise en un simple clique !</p>
                     </div>
                 
                     <div class="col-lg-12">                        
@@ -1471,15 +1471,20 @@
                                 </div>
                                 
                                 <div class="table-header">
-                                    <h3>Formule basique</h3>
-                                    <p class="price"><br>Gratuit</p>
+                                    <h3>Formule Premium</h3>
+                                    <p class="price"><br>15 000 DHS</p>
                                 </div>
                                 
                                 <ul class="desc list-unstyled">
-                                    <li>Conference Kit</li>
-                                    <li>Coffee break</li>
-                                    <li>Lunch</li>
-                                    <li>All seasons</li>
+                                    <li>Une surface de 12 m²</li>
+                                    <li>Publication d'une fiche signalétique de votre entreprise sur le site web</li>
+                                    <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
+                                    <li>Une table rectangle et 4 chaises</li>
+					<li>Un LCD</li>
+					<li>Accès internet sans fil WIFI</li>
+					<li>Vidéo projecteur</li>
+					<li>Déjeuner (2 personnes)</li>
+					<li>Positionnement premium (stratégique)</li>
                                 </ul>
                             </div>
                             
@@ -1489,15 +1494,17 @@
                                 </div>
                                 
                                 <div class="table-header">
-                                    <h3>Formule Gold</h3>
-                                    <p class="price">1000 MAD</p>
+                                    <h3>Formule Deluxe</h3>
+                                    <p class="price">5000 DHS</p>
                                 </div>
                                 
                                 <ul class="desc list-unstyled">
-                                    <li>Conference Kit</li>
-                                    <li>Coffee break</li>
-                                    <li>Lunch</li>
-                                    <li>All seasons</li>
+                                    <li>Une surface de 9 m²</li>
+                                    <li>Publication d'une fiche signalétique de votre entreprise sur le site web</li>
+                                    <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
+                                    <li>Une table rectangle et 2 chaises</li>
+					<li>Accès internet sans fil WIFI</li>
+					<li>Déjeuner (2 personnes)</li>
                                 </ul>
                             </div>
                             
@@ -1507,15 +1514,15 @@
                                 </div>
                                 
                                 <div class="table-header">
-                                    <h3>Formule Diamond</h3>
-                                    <p class="price">5000 MAD</p>
+                                    <h3>Formule Basic</h3>
+                                    <p class="price">Gratuite</p>
                                 </div>
                                 
                                 <ul class="desc list-unstyled">
-                                    <li>Conference Kit</li>
-                                    <li>Coffee break</li>
-                                    <li>Lunch</li>
-                                    <li>All seasons</li>
+                                    <li>Une surface de 4 m²</li>
+                                    <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
+                                    <li>Une table rectanglaire basic</li>
+                                    <li>Accès internet sans fil WIFI</li>
                                 </ul>
                             </div>
                         
