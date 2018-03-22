@@ -1275,7 +1275,6 @@
                             <div class="item wrap">
                                 <img class="img-responsive" src="img/thumb3.png" alt="">
                                 <div class="overlay"></div>
-                                    <i class="pe-3x pe-7s-plus"></i>
                                 </div>
                             </div>
                             
