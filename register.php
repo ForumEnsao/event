@@ -59,7 +59,7 @@
 	    if(empty($Nom_P_err)  && empty($Num_err) && empty($Email_err) ){
 	        
 	        // Prepare an insert statement
-	        $sql = "INSERT INTO stand (Nom_P, Num, Email, pack) VALUES (?, ?, ?, ?)";
+	        $sql = "INSERT INTO stand (Nom_P, Num, Email, pack) VALUES ('$Nom_P', '$Email', '$Num', '$pack')";
 	         
 	        if($stmt = mysqli_prepare($link, $sql)){
 	            // Bind variables to the prepared statement as parameters
