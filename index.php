@@ -1439,11 +1439,11 @@
                                     <li>Publication d'une fiche signalétique de votre entreprise sur le site web</li>
                                     <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
                                     <li>Une table rectangle et 4 chaises</li>
-                    <li>Un LCD</li>
-                    <li>Accès internet sans fil WIFI</li>
-                    <li>Vidéo projecteur</li>
-                    <li>Déjeuner (2 personnes)</li>
-                    <li>Positionnement premium (stratégique)</li>
+                                    <li>Un LCD</li>
+                                    <li>Accès internet sans fil WIFI</li>
+                                    <li>Vidéo projecteur</li>
+                                    <li>Déjeuner (2 personnes)</li>
+                                    <li>Positionnement premium (stratégique)</li>
                                 </ul>
                             </div>
                             
@@ -1454,7 +1454,7 @@
                                 
                                 <div class="table-header">
                                     <h3>Formule Deluxe</h3>
-                                    <p class="price">5000 DHS</p>
+                                    <p class="price"><br>5000 DHS</p>
                                 </div>
                                 
                                 <ul class="desc list-unstyled">
@@ -1462,8 +1462,11 @@
                                     <li>Publication d'une fiche signalétique de votre entreprise sur le site web</li>
                                     <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
                                     <li>Une table rectangle et 2 chaises</li>
-                    <li>Accès internet sans fil WIFI</li>
-                    <li>Déjeuner (2 personnes)</li>
+                                    <li>Accès internet sans fil WIFI</li>
+                                    <li>Déjeuner (2 personnes)</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
                                 </ul>
                             </div>
                             
@@ -1474,7 +1477,7 @@
                                 
                                 <div class="table-header">
                                     <h3>Formule Basic</h3>
-                                    <p class="price">Gratuite</p>
+                                    <p class="price"><br>Gratuite</p>
                                 </div>
                                 
                                 <ul class="desc list-unstyled">
@@ -1482,6 +1485,11 @@
                                     <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
                                     <li>Une table rectanglaire basic</li>
                                     <li>Accès internet sans fil WIFI</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
                                 </ul>
                             </div>
                         
