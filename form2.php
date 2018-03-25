@@ -13,7 +13,6 @@ $sql = "INSERT INTO stand (Nom_P, Num, Email, pack) VALUES ('$Nom_P', '$Num', '$
 if(mysqli_query($link, $sql)){
 	$message = "Enregistrement effectué avec succès ";
 	echo "SUCCESS";
-	header("location: http://forumensao.com");
 } else{
     echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
 }
