@@ -333,7 +333,7 @@ var contact_send = function(){
 		});
 	}
 	
-	
+};
 	
 
 	/* NEWSLETTER FORM FUNCTION */
