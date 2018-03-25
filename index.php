@@ -1450,7 +1450,7 @@
                                 
                                 <div class="table-header">
                                     <h3>Formule Deluxe</h3>
-                                    <p class="price">5000 DHS</p>
+                                    <p class="price"><br>5000 DHS</p>
                                 </div>
                                 
                                 <ul class="desc list-unstyled">
