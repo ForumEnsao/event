@@ -1477,7 +1477,7 @@
                                     <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
                                     <li>Une table rectangle et 2 chaises</li>
                                     <li>Accès internet sans fil WIFI</li>
-                                    <li> <br> &nbsp;</li>
+                                    <li> &nbsp;</li>
                                 </ul>
                             </div>
                         
