@@ -45,7 +45,7 @@
                     </div>
 
                     <div class="col-lg-12 text-right">
-                    <button class="button button-big button-dark" type="submit" onclick="alert('Enregistrement effectué avec succès ')">SEND</button>
+                    <button class="button button-big button-dark" type="submit" onclick="contact_send()">SEND</button>
                     </div>
             </form>
                 </div>
