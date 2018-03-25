@@ -1206,13 +1206,6 @@
                         <div class="col-lg-10 col-lg-offset-1">
                             <div id="funfacts-carousel">
                                 
-                                <div class="item">
-                                    <i class="pe pe-4x pe-7s-users"></i>
-                                    <div class="desc">
-                                        <p class="number">3000</p>
-                                        <p class="description">visiteurs</p>
-                                    </div>
-                                </div>
                                 
                                 <div class="item">
                                     <i class="pe pe-4x pe-7s-micro"></i>
@@ -1235,6 +1228,14 @@
                                     <div class="desc">
                                         <p class="number">192</p>
                                         <p class="description">Réunions</p>
+                                    </div>
+                                </div>
+
+                                 <div class="item">
+                                    <i class="pe pe-4x pe-7s-users"></i>
+                                    <div class="desc">
+                                        <p class="number">3000</p>
+                                        <p class="description">visiteurs</p>
                                     </div>
                                 </div>
                                 
