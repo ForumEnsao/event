@@ -1507,10 +1507,7 @@
 
         
         <!-- google map -->
-        <div id="gmap_canvas">
-            <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCewf7MJRtKKjlTcKX0R2gGALc-RHiPVU&callback=initMap">
-    </script>
-    </div>
+        <div id="gmap_canvas"></div>
     
 
         
@@ -1578,7 +1575,7 @@
 
         
         <script src="js/jquery-1.11.1.min.js"></script>
-        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCewf7MJRtKKjlTcKX0R2gGALc-RHiPVU&callback=initMap"></script>
         <script src="js/jquery.themepunch.tools.min.js"></script>
         <script src="js/jquery.themepunch.revolution.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
