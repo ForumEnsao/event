@@ -8,7 +8,7 @@
                     <h2 class="uppercase">Enregistrement</h2>
                     <p>Remplissez ce formulaire et le tour est joué !</p>
                 </div>
-            <form >
+            
                 <!-- REGISTER FORM -->
                 <div class="register-form col-lg-12">
                     <div class="control-group">
@@ -47,7 +47,7 @@
                     <div class="col-lg-12 text-right">
                     <button class="button button-big button-dark" type="submit" onclick="contact_send()">SEND</button>
                     </div>
-            </form>
+            
                 </div>
             </div>
         </div>
