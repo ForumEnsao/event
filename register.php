@@ -8,7 +8,7 @@
                     <h2 class="uppercase">Enregistrement</h2>
                     <p>Remplissez ce formulaire et le tour est joué !</p>
                 </div>
-            <form action="form2.php" method="post">
+            <form >
                 <!-- REGISTER FORM -->
                 <div class="register-form col-lg-12">
                     <div class="control-group">
