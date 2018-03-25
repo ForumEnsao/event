@@ -12,7 +12,7 @@ $pack = mysqli_real_escape_string($link, $_REQUEST['pack']);
 $sql = "INSERT INTO stand (Nom_P, Num, Email, pack) VALUES ('$Nom_P', '$Num', '$Email', '$pack')";
 if(mysqli_query($link, $sql)){
 	$message = "Enregistrement effectué avec succès ";
-	echo "<script type='text/javascript'>alert('$message');</script>";
+	echo "SUCCESS";
 	header("location: http://forumensao.com");
 } else{
     echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
