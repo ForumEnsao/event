@@ -1426,7 +1426,7 @@
                             
                             <div class="price-table early-bird">
                                 <div class="icon">
-                                    <i class="pe-5x pe-7s-gift"></i> 
+                                    <i class="pe-5x pe-7s-diamond"></i> 
                                 </div>
                                 
                                 <div class="table-header">
@@ -1464,7 +1464,7 @@
                             
                             <div class="price-table vip">
                                 <div class="icon">
-                                    <i class="pe-5x pe-va pe-7s-diamond"></i> 
+                                    <i class="pe-5x pe-va pe-7s-gift"></i> 
                                 </div>
                                 
                                 <div class="table-header">
