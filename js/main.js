@@ -327,6 +327,7 @@ var contact_send = function(){
 					$("#Num").val("");
 					$("#pack").val("");
 				}, 3000);
+				window.location.replace("http://forumensao.com");
 			} else {
 				alert("Your contact form isn't sent. Please check fields and try again.");
 			}
