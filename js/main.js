@@ -300,37 +300,41 @@ $(window).load(function(){
 
 });
 
+
+
+
 // REGISTER FORM FUNCTION
 var contact_send = function(){
 	
 	'use strict';
 	
-	var name  = $("#name").val();
-	var email = $("#email").val();
-	var phone = $("#phone").val();
-	var type  = $("#type").val();
+	var Nom_P  = $("#Nom_P").val();
+	var Email = $("#Email").val();
+	var Num = $("#Num").val();
+	var pack  = $("#pack").val();
 	
-		 if ( name=="" ){ alert("name area is empty!"); $("#name").focus(); }
-	else if ( email=="" ){ alert("email address area is empty!"); $("#email").focus(); }
-	else if ( phone=="" ){ alert("phone number area is empty!"); $("#phone").focus(); }
-	else if ( type=="" ){ alert("register type isn't selected!"); $("#type").focus(); }
+		 if ( Nom_P=="" ){ alert("Nom_P area is empty!"); $("#Nom_P").focus(); }
+	else if ( Email=="" ){ alert("Email address area is empty!"); $("#Email").focus(); }
+	else if ( Num=="" ){ alert("Num number area is empty!"); $("#Num").focus(); }
+	else if ( pack=="" ){ alert("register pack isn't selected!"); $("#pack").focus(); }
 	else {
-		$.post("contact.send.php", { name:name, email:email, phone:phone, type:type }, function( result ){
+		$.post("form2.php", { Nom_P:Nom_P, Email:Email, Num:Num, pack:pack }, function( result ){
 			if ( result=="SUCCESS" ){
 				alert("Your contact form is sent.");
 				setTimeout(function(){
-					$("#name").val("");
-					$("#email").val("");
-					$("#phone").val("");
-					$("#type").val("");
+					$("#Nom_P").val("");
+					$("#Email").val("");
+					$("#Num").val("");
+					$("#pack").val("");
 				}, 3000);
 			} else {
 				alert("Your contact form isn't sent. Please check fields and try again.");
 			}
 		});
 	}
-
-};
+	
+	
+	
 
 	/* NEWSLETTER FORM FUNCTION */
 	var newsletter_send = function(){
