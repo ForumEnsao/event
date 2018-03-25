@@ -14,10 +14,7 @@
 		
         <title>Forum Ensao Entreprises</title>
         
-    	<script type="text/javascript">
-        	var oldURL = document.referrer;
-        	alert(oldURL);
-    	</script>
+    	
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="Forum Ensao Entreprises">
