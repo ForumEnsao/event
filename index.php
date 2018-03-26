@@ -1424,21 +1424,22 @@
                                 </div>
                                 
                                 <div class="table-header">
-                                    <h3>Formule Premium</h3>
-                                    <p class="price"><br>15 000 DHS</p>
+                                    <h3>Formule Basic</h3>
+                                    <p class="price"><br>Gratuite</p>
                                 </div>
                                 
                                 <ul class="desc list-unstyled">
-                                    <li>Une surface de 12 m²</li>
-                                    <li>Publication d'une fiche signalétique de votre entreprise sur le site web</li>
+                                    <li>Une surface de 4 m²</li>
                                     <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
-                                    <li>Une table rectangle et 4 chaises</li>
-                                    <li>Un LCD</li>
+                                    <li>Une table rectanglaire basic</li>
                                     <li>Accès internet sans fil WIFI</li>
-                                    <li>Vidéo projecteur</li>
-                                    <li>Déjeuner (2 personnes)</li>
-                                    <li>Positionnement premium (stratégique)</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> <br>&nbsp;</li>
                                 </ul>
+
                             </div>
                             
                             <div class="price-table standart">
@@ -1470,20 +1471,21 @@
                                 </div>
                                 
                                 <div class="table-header">
-                                    <h3>Formule Basic</h3>
-                                    <p class="price"><br>Gratuite</p>
+                                    <h3>Formule Premium</h3>
+                                    <p class="price"><br>15 000 DHS</p>
                                 </div>
                                 
+
                                 <ul class="desc list-unstyled">
-                                    <li>Une surface de 4 m²</li>
+                                    <li>Une surface de 12 m²</li>
+                                    <li>Publication d'une fiche signalétique de votre entreprise sur le site web</li>
                                     <li>Enseigne avec le nom de votre entreprise et le numéro du stand</li>
-                                    <li>Une table rectanglaire basic</li>
+                                    <li>Une table rectangle et 4 chaises</li>
+                                    <li>Un LCD</li>
                                     <li>Accès internet sans fil WIFI</li>
-                                    <li> &nbsp;</li>
-                                    <li> &nbsp;</li>
-                                    <li> &nbsp;</li>
-                                    <li> &nbsp;</li>
-                                    <li> <br>&nbsp;</li>
+                                    <li>Vidéo projecteur</li>
+                                    <li>Déjeuner (2 personnes)</li>
+                                    <li>Positionnement premium (stratégique)</li>
                                 </ul>
                             </div>
                         
