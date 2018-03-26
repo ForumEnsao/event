@@ -1424,7 +1424,7 @@
                                 </div>
                                 
                                 <div class="table-header">
-                                    <h3>Formule Basic</h3>
+                                    <h3>Formule Basique</h3>
                                     <p class="price"><br>Gratuite</p>
                                 </div>
                                 
