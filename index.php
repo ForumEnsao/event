@@ -5,12 +5,6 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
     
-        <style>
-      #map {
-        height: 400px;
-        width: 100%;
-       }
-    </style>
         
         <title>Forum Ensao Entreprises</title>
         
@@ -1489,7 +1483,7 @@
                                     <li> &nbsp;</li>
                                     <li> &nbsp;</li>
                                     <li> &nbsp;</li>
-                                    <li> &nbsp;</li>
+                                    <li> <br>&nbsp;</li>
                                 </ul>
                             </div>
                         
