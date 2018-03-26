@@ -277,14 +277,14 @@
             </div>
         </section>
 
-        <!-- SPEAKERS -->
+        <!-- SPEAKERS --><center>
          <section id="speakers">
          <div class="gm-err-icon">
              <img src="https://akvapark.lt/wp-content/uploads/2013/09/maintenance_2-300x300.png" draggable="false" style="user-select: none;">
-         <div class="gm-err-title">En cours ...</div>
+         <div class="gm-err-title"> <h3>En cours ...</h3></div>
          </div>
          </section>
-
+        </center>
         <!-- PROGRAM -->
         <section id="program">
             <div class="container">
