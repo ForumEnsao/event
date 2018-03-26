@@ -1152,7 +1152,7 @@
                                 <h3>Salon de l'innovation<br>Le 28 Avril 2018</h3>
                                 <p>C'est un salon qui va regrouper les projets les plus innovants au niveau du royaume touchant au domaine de l'intelligence artificielle, que ça soit une application intelligente, un concept (avancé) intelligent, ou un robot intelligent nous allons créer pour vous une exposition ouverte présentant ces prouesses de la technologie au grand public.</p>
                                 <center>
-                                <a class="button button-small button-line-dark" href="https://www.eventbrite.com/e/competition-de-forum-ensao-entreprises-salon-de-linnovation-tickets-41542167742">Réserver votre ticket</a><br> &nbsp; <br>
+                                <a class="button button-small button-line-dark" href="https://fee2018-innovation.eventbrite.com">Réserver votre ticket</a><br> &nbsp; <br>
                                 <a class="button button-small button-line-dark" href="img/charte.pdf">Téléchargement de la charte</a></center>
                             </div>
                             
