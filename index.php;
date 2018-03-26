@@ -1437,7 +1437,8 @@
                                     <li> &nbsp;</li>
                                     <li> &nbsp;</li>
                                     <li> &nbsp;</li>
-                                    <li> <br>&nbsp;</li>
+                                    <li> &nbsp;</li>
+                                    <li> &nbsp;</li>
                                 </ul>
 
                             </div>
