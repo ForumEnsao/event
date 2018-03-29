@@ -313,10 +313,10 @@ var contact_send = function(){
 	var Num = $("#Num").val();
 	var pack  = $("#pack").val();
 	
-		 if ( Nom_P=="" ){ alert("Nom_P area is empty!"); $("#Nom_P").focus(); }
-	else if ( Email=="" ){ alert("Email address area is empty!"); $("#Email").focus(); }
-	else if ( Num=="" ){ alert("Num number area is empty!"); $("#Num").focus(); }
-	else if ( pack=="" ){ alert("register pack isn't selected!"); $("#pack").focus(); }
+		 if ( Nom_P=="" ){ alert("Le champ 'Nom de l'entreprise' est vide!"); $("#Nom_P").focus(); }
+	else if ( Email=="" ){ alert("Le champ 'Email' est vide!"); $("#Email").focus(); }
+	else if ( Num=="" ){ alert("Le champ 'Numéro de Téléphone' est vide!"); $("#Num").focus(); }
+	else if ( pack=="" ){ alert("veuillez sélectionner un pack!"); $("#pack").focus(); }
 	else {
 		$.post("form2.php", { Nom_P:Nom_P, Email:Email, Num:Num, pack:pack }, function( result ){
 			if ( result=="SUCCESS" ){
