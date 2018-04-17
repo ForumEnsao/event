@@ -1563,7 +1563,8 @@
         <div class="subfooter">
             <div class="container">
                 <div class="copyright aziz">
-                    &copy; Forum Ensao Entreprises 2018. All rights reserved.
+                    &copy; Forum Ensao Entreprises 2018. All rights reserved.<br>
+                    Developed by <a href="https://www.linkedin.com/in/anashafsi/" >Anas HAFSI</a> &amp; <a href="https://www.linkedin.com/in/fouad-elayachi-856245ba/">Fouad ELAYACHI</a> . 
             </div>
             </div>
             
