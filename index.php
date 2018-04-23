@@ -298,7 +298,7 @@
                     <ul id="list-speaker" class="list-unstyled"> 
                         
                         <!-- SPEAKER 1 -->  
-                        <li class="col-lg-3 col-md-3 col-sm-4">
+                        <li class="col-lg-4 col-md-3 col-sm-4">
                             <div class="speaker">
                                 <figure class="effect-ming">
                                     <img class="img-responsive" src="img/speaker1.jpg" alt=""/>
@@ -309,18 +309,18 @@
                                 
                                 <div class="caption text-center">
                                     <h4>Jaafar Megzari</h4>
-                                    <p class="company" style="letter-spacing:1px;">University of Texas at San Antonio</p>
+                                    <p class="company" >University of Texas at San Antonio</p>
                                 </div>   
                             </div>
                         </li>
                         
                         <!-- SPEAKER 2 -->  
-                        <li class="col-lg-3 col-md-3 col-sm-4">
+                        <li class="col-lg-4 col-md-3 col-sm-4">
                             <div class="speaker">
                                 <figure class="effect-ming">
                                     <img class="img-responsive" src="img/speaker2.jpg" alt=""/>
                                     <figcaption>
-                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                        <span><a class="html-popup" href="AmalElFallah.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
                                     </figcaption>           
                                 </figure>
                                 
@@ -332,7 +332,7 @@
                         </li>
                         
                         <!-- SPEAKER 3 -->  
-                        <li class="col-lg-3 col-md-3 col-sm-4">
+                        <li class="col-lg-4 col-md-3 col-sm-4">
                             <div class="speaker">
                                 <figure class="effect-ming">
                                     <img class="img-responsive" src="img/speaker3.jpg" alt=""/>
@@ -349,7 +349,7 @@
                         </li>
                         
                         <!-- SPEAKER 4 -->  
-                        <li class="col-lg-3 col-md-3 col-sm-4">
+                        <li class="col-lg-4 col-md-3 col-sm-4">
                             <div class="speaker">
                                 <figure class="effect-ming">
                                     <img class="img-responsive" src="img/speaker4.jpg" alt=""/>
@@ -360,85 +360,29 @@
                                 
                                 <div class="caption text-center">
                                     <h4>Maryam Fourtassi</h4>
-                                    <p class="company" style="letter-spacing: 0px; font-size: 9px;">Faculté de Médecine et de Pharmacie d'Oujda</p>
+                                    <p class="company" >Faculté de Médecine et de Pharmacie d'Oujda</p>
                                 </div>   
                             </div>
                         </li>
                         
                         <!-- SPEAKER 5 -->
-                        <li class="col-lg-3 col-md-3 col-sm-4">
+                        <li class="col-lg-4 col-md-3 col-sm-4">
                             <div class="speaker">
                                 <figure class="effect-ming">
-                                    <img class="img-responsive" src="img/speaker5.png" alt=""/>
+                                    <img class="img-responsive" src="img/speaker5.jpg" alt=""/>
                                     <figcaption>
-                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                        <span><a class="html-popup" href="Amine.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
                                     </figcaption>           
                                 </figure>
                                 
                                 <div class="caption text-center">
-                                    <h4>Herman Russell</h4>
-                                    <p class="company">Zenquoace</p>
+                                    <h4>Amine Zemmouri</h4>
+                                    <p class="company">Université Euro-Méditerranéenne de Fès</p>
                                 </div>   
                             </div>
                         </li>
                         
-                        <!-- SPEAKER 6 -->
-                        <li class="col-lg-3 col-md-3 col-sm-4">
-                            <div class="speaker">
-                                <figure class="effect-ming">
-                                    <img class="img-responsive" src="img/speaker6.png" alt=""/>
-                                    <figcaption>
-                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
-                                    </figcaption>           
-                                </figure>
-                                
-                                <div class="caption text-center">
-                                    <h4>Joan Graves</h4>
-                                    <p class="company">Howtech</p>
-                                </div>   
-                            </div>
-                        </li>
                         
-                        <!-- SPEAKER 7 -->
-                        <li class="col-lg-3 col-md-3 col-sm-4">
-                            <div class="speaker">
-                                <figure class="effect-ming">
-                                    <img class="img-responsive" src="img/speaker7.png" alt=""/>
-                                    <figcaption>
-                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
-                                    </figcaption>           
-                                </figure>
-                                
-                                <div class="caption text-center">
-                                    <h4>Jaafar Megzari</h4>
-                                    <p class="company">Ventolax</p>
-                                </div>   
-                            </div>
-                        </li>
-                        
-                        <!-- SPEAKER 8 -->
-                        <li class="col-lg-3 col-md-3 col-sm-4">
-                            <div class="speaker">
-                                <figure class="effect-ming">
-                                    <img class="img-responsive" src="img/speaker8.png" alt=""/>
-                                    <figcaption>
-                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
-                                    </figcaption>           
-                                </figure>
-                                
-                                <div class="caption text-center">
-                                    <h4>Tracey Curtis</h4>
-                                    <p class="company">Zathmedia</p>
-                                </div>   
-                            </div>
-                        </li>
-                    
-                    </ul>
-                    
-                    <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                        <a id="loadmore" class="button button-small button-line-dark">load more</a>
-                    </div>
-                    
                 </div>
             </div>
         </section>
