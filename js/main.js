@@ -130,11 +130,11 @@ jQuery(document).ready(function($) {
 	});
     
     //LOAD MORE
-    $('#list-speaker li:lt(4)').show();
+    $('#list-speaker li:lt(6)').show();
     
-    $('#loadmore').on("click", function () {
-    	$('#list-speaker li:lt(8)').fadeIn();
-    	$('#list-speaker li:lt(8)').show();
+    $('#laoadmore').on("click", function () {
+    	$('#list-speaker li:lt(6)').fadeIn();
+    	$('#list-speaker li:lt(6)').show();
     });
     
     //FAQ TOGGLE 

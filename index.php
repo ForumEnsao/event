@@ -277,14 +277,181 @@
             </div>
         </section>
                  
-        <!-- SPEAKERS --><center>
-         <section id="speakers">
-         <div class="gm-err-icon">
-             <img src="https://akvapark.lt/wp-content/uploads/2013/09/maintenance_2-300x300.png" draggable="false" style="user-select: none;">
-         <div class="gm-err-title"> <h3>En cours ...</h3></div>
-         </div>
-         </section>
-        </center>
+
+
+
+
+
+
+
+
+                <!-- SPEAKERS -->
+        <section id="speakers">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-lg-12">
+                        <h2 class="uppercase">speakers</h2>
+                        <p class="lead">Nam pellentesque fringilla faucibus. Aliquam tortor ex, egestas porta eget, pretium at lorem.</p>
+                    </div> 
+                    
+                    <ul id="list-speaker" class="list-unstyled"> 
+                        
+                        <!-- SPEAKER 1 -->  
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker1.jpg" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="Jaafar.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Jaafar Megzari</h4>
+                                    <p class="company" style="letter-spacing:1px;">University of Texas at San Antonio</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 2 -->  
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker2.jpg" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Amal El Fallah</h4>
+                                    <p class="company">Université Pierre-et-Marie-Curie</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 3 -->  
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker3.jpg" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="Moumen.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Younes Moumen</h4>
+                                    <p class="company">ATLAN Space</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 4 -->  
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker4.jpg" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="Fourtassi.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Maryam Fourtassi</h4>
+                                    <p class="company" style="letter-spacing: 0px; font-size: 9px;">Faculté de Médecine et de Pharmacie d'Oujda</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 5 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker5.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Herman Russell</h4>
+                                    <p class="company">Zenquoace</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 6 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker6.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Joan Graves</h4>
+                                    <p class="company">Howtech</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 7 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker7.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Jaafar Megzari</h4>
+                                    <p class="company">Ventolax</p>
+                                </div>   
+                            </div>
+                        </li>
+                        
+                        <!-- SPEAKER 8 -->
+                        <li class="col-lg-3 col-md-3 col-sm-4">
+                            <div class="speaker">
+                                <figure class="effect-ming">
+                                    <img class="img-responsive" src="img/speaker8.png" alt=""/>
+                                    <figcaption>
+                                        <span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                    </figcaption>           
+                                </figure>
+                                
+                                <div class="caption text-center">
+                                    <h4>Tracey Curtis</h4>
+                                    <p class="company">Zathmedia</p>
+                                </div>   
+                            </div>
+                        </li>
+                    
+                    </ul>
+                    
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                        <a id="loadmore" class="button button-small button-line-dark">load more</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
         <!-- PROGRAM -->
         <section id="program">
             <div class="container">
