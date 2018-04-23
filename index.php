@@ -291,8 +291,8 @@
                 <div class="row">
                     
                     <div class="col-lg-12">
-                        <h2 class="uppercase">speakers</h2>
-                        <p class="lead">Nam pellentesque fringilla faucibus. Aliquam tortor ex, egestas porta eget, pretium at lorem.</p>
+                        <h2 class="uppercase">Conférenciers</h2>
+                        <p class="lead">Lors du forum ENSAO Entreprises, Plusieurs conférences sous le themes de l'intelligence artificielle seront données .</p>
                     </div> 
                     
                     <ul id="list-speaker" class="list-unstyled"> 
