@@ -371,7 +371,7 @@
                                 <figure class="effect-ming">
                                     <img class="img-responsive" src="img/speaker5.jpg" alt=""/>
                                     <figcaption>
-                                        <span><a class="html-popup" href="Amine.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
+                                        <span><a class="html-popup" href="Zammouri.html"><img class="img-responsive" src="img/plus.png" alt=""></a></span>
                                     </figcaption>           
                                 </figure>
                                 
