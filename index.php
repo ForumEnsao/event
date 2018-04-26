@@ -63,7 +63,7 @@
             
             <div class="navbar-header">
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav">
-                <span class="sr-only">Toggle navigation</span>
+                <span class="sr-only">Navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -78,7 +78,7 @@
                 <li><a data-toggle="elementscroll" href="#program">Programme</a></li>
                 <li><a data-toggle="elementscroll" href="#venue">Lieu</a></li>
                 <li><a data-toggle="elementscroll" href="#gallery">Galerie</a></li>
-                <li><a data-toggle="elementscroll" href="#sponsors">Sponsors</a></li>
+                <li><a data-toggle="elementscroll" href="#sponsors">Sponsors et Exposants</a></li>
 
                 <li><a data-toggle="elementscroll" href="#register">Stands</a></li>
                 <li><a data-toggle="elementscroll" href="#footer">Contacts</a></li>
@@ -428,7 +428,7 @@
                                            
                                             <div class="row">
                                                 <div class="col-lg-1 col-md-1 col-sm-1">
-                                                <p class="date">09.00</p>
+                                                <p class="date">08.30</p>
                                                 </div>
                                                 
                                                 <div class="col-lg-11 col-md-11 col-sm-11">
@@ -500,24 +500,22 @@
                                             <div class="panel-body">
                                                 <div class="row">
                                                     <div class="col-lg-2 col-md-2 col-sm-2">
-                                                        <img class="img-responsive img-circle" src="img/speaker1.png" alt="">
+                                                        <img class="img-responsive img-circle" src="img/speaker1.jpg" alt="">
                                                     </div>
                                                     
                                                     <div class="col-lg-7 col-md-7 col-sm-10">
-                                                        <p class="speaker-name uppercase">Stanley Willis</p>
-                                                        <h4>Mauris rhoncus scelerisque lacus</h4>
-                                                        <p>Sed facilisis justo vitae risus viverra vulputate. Mauris vel ipsum dignissim diam viverra condimentum. Donec sodales, diam eget mattis condimentum, quam neque tempus purus, dictum viverra risus nisl quis metus.</p>
+                                                        <p class="speaker-name uppercase">Jaafar MEGZARI</p>
+                                                        <h4>University of Texas at San Antonio</h4>
+                                                        <p>Gérant et Conseiller PHP Conseil 
+• MBA, Université du Texas à San Antonio 
+• Responsable Commercial à LMI - Leadership Management International 
+• Enseignant Assistant à l’université du Texas à San Antonio.</p>
                                                                                                                 
-                                                        <p><i class="fa fa-lg fa-clock-o"></i> <span class="small">45mins</span></p>
-                                                        <p><i class="fa fa-lg fa-map-marker"></i> <span class="small">Saloon A</span></p>
-                                                        <p><i class="fa fa-lg fa-signal"></i> <span class="small">Beginner</span></p>
+                                                        <p><i class="fa fa-lg fa-clock-o"></i> <span class="small">30mins</span></p>
+                                                        <p><i class="fa fa-lg fa-map-marker"></i> <span class="small">Amphi des conférences</span></p>
+
                                                     </div>
                                                     
-                                                    <div class="col-lg-3 col-md-3 col-sm-10">
-                                                        <h5>About Stanley Willis</h5>
-                                                        <p class="small">Sed non congue nunc. Fusce pulvinar elementum rhoncus. Duis sit amet metus erat. Sed et ligula mattis, dictum nisl et, vestibulum urna.</p>
-                                                        <span class="about-speaker"><i class="fa fa-lg fa-globe"></i> <a class="small" href="#">themecube.net</a></span>
-                                                    </div>
                                                     
                                                 </div>
                                             </div>
@@ -1491,8 +1489,9 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
-                                <h2 class="uppercase">sponsors</h2>
-                                <p class="lead">ils nous ont fait confiance.</p>
+                                <h2 class="uppercase">Sponsors et Exposants</h2>
+                                <p class="lead">
+Le forum ENSAO Entreprises est avant tout un espace d'échange entre l'étudiant et le monde professionnel.</p>
         <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:100px;overflow:hidden;visibility:hidden;">
         <!-- Loading Screen -->
         <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
